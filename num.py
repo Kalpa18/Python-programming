@@ -1,4 +1,3 @@
-print("enter a number")
 N=int(input())
 if((N>=1)and(N<=100000)):
   print("positive")
