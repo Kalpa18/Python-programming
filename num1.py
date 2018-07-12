@@ -5,4 +5,4 @@ if((N>=1)and(N<=100000)):
   else:
     print("Odd")
 else:
-  print("Invalid")
+  print("invalid")
