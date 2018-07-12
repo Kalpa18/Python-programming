@@ -1,11 +1,11 @@
 N=int(input())
 if((N>=1)and(N<=100000)):
-  print("positive")
+  print("Positive")
 else:
   if(N==0):
-    print("zero")
+    print("Zero")
   elif(N<0):
-    print("negative")
+    print("Negative")
   else:
-    print("out of range")
+    print("Out of range")
     
